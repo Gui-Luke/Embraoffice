@@ -131,7 +131,11 @@ form {
     width: 100%;
     height: 900px;
     background-color: #11468C;
-    margin-top: -100px;
+    margin-top: -110px;
+}
+
+.part-01 {
+    padding-top: 50px;
 }
 
 .text1-part-01 {
@@ -189,4 +193,92 @@ hr {
     font-size: 1rem;
     font-weight: bold;
     color: white;
+}
+
+
+.section-2 {
+    background-color: white;
+    display: flex;
+}
+
+.section-2 .part-2 {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 80%;
+    padding: 40px;
+    margin-left: 13.7%;
+    margin-top: -4%;
+    margin-bottom: 150px;
+}
+
+.part-2 {
+    margin: 40px 0 0 40px;
+    border: 1px solid #11468C;
+    border-left: 3px solid #11468C;
+    border-bottom: 3px solid #11468C;
+    width: 93%;
+    height: 150%;
+    background-color: white;
+}
+
+li {
+    list-style: none;
+}
+
+.escritorio {
+    height: 100px;
+    font-weight: bold;
+    flex-wrap: wrap;
+    color: #8b8b8b;
+    margin-left: 25px;
+    margin-top: -25%;
+}
+
+.focos-part-2 {
+    padding-top: 30px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #acacac;
+}
+
+.forma-03 {
+    background-color: #0B2D59;
+    width: 0.9%;
+    height: 20%;
+    position: absolute;
+    margin-left: 48.3%;
+    margin-top: -38.2%;
+}
+
+.forma-04 {
+    background-color: #0B2D59;
+    width: 20%;
+    height: 1.7%;
+    position: absolute;
+    margin-left: 48.3%;
+    margin-top: -38.3%;
+}
+
+.forma-05 {
+    background-color: #0B2D59;
+    width: 0.9%;
+    height: 25%;
+    position: absolute;
+    margin-left: 95.4%;
+    margin-top: -25.05%;
+}
+
+.forma-06 {
+    background-color: #0B2D59;
+    width: 14%;
+    height: 2.6%;
+    position: absolute;
+    margin-left: 81.5%;
+    margin-top: -14.4%;
 }
